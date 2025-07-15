@@ -1,0 +1,1821 @@
+{
+    "website": {
+        "header": {
+            "logo": "https://retailpointecuador.com/wp-content/uploads/2024/02/Recurso-3@3x.png",
+            "menu": [
+                {
+                    "id": "1", 
+                    "name": "Inicio",
+                    "redirects": "/"
+                },
+                {
+                    "id": "2", 
+                    "name": "Soluciones Integrales",
+                    "redirects": "/products"
+                },
+                {
+                    "id": "3", 
+                    "name": "Catalogo (PDFs)",
+                    "redirects": "/catalog"
+                },
+                {
+                    "id": "4", 
+                    "name": "Contacto",
+                    "redirects": "/contact"
+                }
+            ]
+        },
+        "heroSection": {
+            "showThisSection": true,
+            "slides": [
+                {
+                    "id": 1,
+                    "image": "https://lh3.googleusercontent.com/d/1RED7ANTBFfFugFSbsw2SDEdxJlsgdiUE",
+                    "title": "",
+                    "subtitle": "",
+                    "cta": "Explorar Productos",
+                    "showInfo": true,
+                    "link": "/categories"
+                },
+
+                {
+                    "id": 2,
+                    "image": "https://lh3.googleusercontent.com/d/16-lAW-6yLUYEjsqIwccCN50t9OinfcJh",
+                    "title": "",
+                    "subtitle": "",
+                    "cta": "Explorar Productos",
+                    "showInfo": true,
+                    "link": "/categories"
+                },
+                {
+                    "id": 3,
+                    "image": "https://lh3.googleusercontent.com/d/1TlfZZNEkCriEPJWPJALpwVJ4b3-fb7mG",
+                    "title": "",
+                    "subtitle": "",
+                    "cta": "Explorar Productos",
+                    "showInfo": true,
+                    "link": "/categories"
+                },
+                {
+                    "id": 4,
+                    "image": "https://lh3.googleusercontent.com/d/1k_inUmqZ5vXGEdkJI3jQsLuNBP-DXNQU",
+                    "title": "",
+                    "subtitle": "",
+                    "cta": "Explorar Productos",
+                    "showInfo": true,
+                    "link": "/categories"
+                }
+              ]
+        },
+        "landingBanner": {
+            "showBanner": true,
+            "bannerImage": "https://lh3.googleusercontent.com/d/1q0ZMKh0CXdAQ4Y4096X0Ht5pqGXS4UVn"
+        },
+        "whyChooseUs": {
+            "showThisSection": true,
+            "title": "¿Por qué elegirnos?",
+            "subtitle": "Somos líderes en soluciones tecnológicas para retail en Ecuador, ofreciendo productos y servicios de alta calidad.",
+            "cards": [
+                {
+                    "title": "Soluciones Integrales",
+                    "subtitle": "Brindamos tecnología de vanguardia para proteger, optimizar y hacer crecer tu negocio. Integramos soluciones innovadoras que mejoran la eficiencia operativa, refuerzan la seguridad y potencian tus ventas. Todo con respaldo profesional y atención personalizada."
+                },
+                {
+                    "title": "Garantía de Calidad",
+                    "subtitle": "Trabajamos con marcas líderes y tecnología certificada, garantizando soluciones confiables, duraderas y eficientes. Tu seguridad y satisfacción son nuestra prioridad."
+                },
+                {
+                    "title": "Incremento en Ventas",
+                    "subtitle": "Nuestras soluciones tecnológicas protegen y aumentan tus ingresos, optimizando la experiencia del cliente y mejorando la eficiencia operativa para vender más en menos tiempo. "
+                },
+                {
+                    "title": "Soporte Inmediato",
+                    "subtitle": "Ofrecemos atención técnica rápida y eficaz para garantizar que tus sistemas funcionen siempre sin interrupciones. Tu negocio nunca se detiene, y nosotros tampoco."
+                }
+            ]
+        },
+        "techServiceSection": {
+            "showThisSection": true,
+            "backgroundImage": "https://images.pexels.com/photos/3912981/pexels-photo-3912981.jpeg",
+            "title": "SERVICIO TÉCNICO",
+            "subtitle": "Es importante cuidar de la inversión de nuestros clientes por lo que sugerimos siempre el mantenimiento preventivo y correctivo de los dispositivos antihurto.",
+            "button": "SOLICITAR"
+        },
+        "fastCategoriesSection": {
+            "showThisSection": true,
+            "title": "Categorías de nuestros productos"
+        },
+        "allStateCoverage": {
+            "showThisSection": true,
+            "title": "ENVIOS A TODO EL PAÍS",
+            "image": "https://thumbs.dreamstime.com/b/dot-ecuador-map-rojo-118731771.jpg"
+        }
+    },
+    "categories": [
+        {
+            "id": "1",
+            "name": "Sistemas Antihurto EAS",
+            "description": "Diseñado para reducir al máximo las pérdidas en el punto de venta, este sistema utiliza antenas y etiquetas que detectan intentos de hurto en tiempo real. Ideal para tiendas de ropa, supermercados y comercios que buscan proteger su inventario sin afectar la experiencia del cliente.",
+            "coverImage": "https://lh3.googleusercontent.com/d/1FudB1GoN3ewwQ4h3j3NbG3X7NTkFxEgr",
+            "tags": ["cat-1", "retail masivo"],
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/1TqloNqsT3XVLIIeE-z5mOZkkSsCKsWbA",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            },
+            "subCategory": [
+                {
+                    "id": "1-1",
+                    "name": "Tecnología Acusto-Magnético",
+                    "description": "",
+                    "coverImage": "https://lh3.googleusercontent.com/d/1BtOIDVDKDCcTv5CZIfl3fruoNq2u-Px_",
+                    "tags": ["cat-1", "retail masivo"],
+                     "categoryPageBanner": {
+                        "coverImage": "https://lh3.googleusercontent.com/d/1TqloNqsT3XVLIIeE-z5mOZkkSsCKsWbA",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                    }
+                },
+                {
+                    "id": "1-2",
+                    "name": "Tecnología Radio-Frecuencia",
+                    "description": "",
+                    "coverImage": "https://lh3.googleusercontent.com/d/1pZIMjyzH7ZI4ZOgmiq5297Ad2ZQQhi39",
+                    "tags": ["cat-1", "retail masivo"],
+                     "categoryPageBanner": {
+                        "coverImage": "https://lh3.googleusercontent.com/d/1TqloNqsT3XVLIIeE-z5mOZkkSsCKsWbA",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                    }
+                }
+            ]
+        }, 
+        {
+            "id": "2",
+            "name": "Sistema ESL",
+            "description": "Transforma la gestión de precios en tu tienda con etiquetas digitales que se actualizan automáticamente desde una plataforma central. Ahorra tiempo, reduce errores humanos, apoya campañas promocionales dinámicas y mejora la presentación visual del producto.",
+            "coverImage": "https://lh3.googleusercontent.com/d/1rAWV76n22XNFYIksNAH9D0NK_qL3hNNt",
+            "tags": ["cat-2"],
+            "subCategory": null,
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/1rsMpB7pxz_6pNuIRsmN4uVS0oeZHODaO",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            }
+        },
+        {
+            "id": "3",
+            "name": "Cartelera Digital MPS",
+            "description": "Moderniza la forma en que te comunicas con tus clientes. Con nuestra cartelera digital puedes gestionar y programar contenidos publicitarios de manera remota, en tiempo real y desde cualquier dispositivo, aumentando el impacto visual y reduciendo costos de impresión.",
+            "coverImage": "https://lh3.googleusercontent.com/d/1UwnC8f8aIjqKyiDTV7Ck9dIQvOIV5HCJ",
+            "tags": ["cat-3"],
+            "subCategory": null,
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/1u7R87u3UdHxMTyIOt_B_0p-Nbso-vbcN",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            }
+        },
+        {
+            "id": "4",
+            "name": "Pizarra Interactiva DEEPHUB",
+            "description": "Una herramienta colaborativa todo-en-uno que permite realizar presentaciones, videollamadas, anotaciones y trabajo compartido en tiempo real. Ideal para reuniones corporativas, capacitaciones o entornos educativos que buscan interacción dinámica y profesional.",
+            "coverImage": "https://lh3.googleusercontent.com/d/1am7Urb1cq5c6aL1sf8xuVrImlcgOYPMF",
+            "tags": ["cat-4"],
+            "subCategory": null,
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/1Ca_Y0-AgSExgLmYHXVd5SoU08lqsNTkI",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            }
+        },
+        {
+            "id": "5",
+            "name": "Sistema CCTV con tecnología IA",
+            "description": "Más que solo vigilancia: nuestras cámaras inteligentes analizan el comportamiento en el entorno. Reconocen rostros, identifican merodeo, miden afluencia, detectan emociones y generan alertas automatizadas para una gestión preventiva y analítica del espacio.",
+            "coverImage": "https://lh3.googleusercontent.com/d/1UwnC8f8aIjqKyiDTV7Ck9dIQvOIV5HCJ",
+            "tags": ["cat-5"],
+            "subCategory": null,
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/1b_wFjBdfax4RinOKGE8tZ9dN7ilHMuCR",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            }
+        },
+        {
+            "id": "6",
+            "name": "Sistema RFID",
+            "description": "Permite el control automatizado y preciso de inventarios, facilitando la trazabilidad de productos desde el ingreso hasta la venta. Reduce pérdidas por errores de conteo, acelera procesos logísticos y mejora la eficiencia en bodegas, tiendas o centros de distribución.",
+            "coverImage": "https://lh3.googleusercontent.com/d/1BtOIDVDKDCcTv5CZIfl3fruoNq2u-Px_",
+            "tags": ["cat-6"],
+            "subCategory": [
+                {
+                    "id": "6-1",
+                    "name": "Soluciones",
+                    "description": "",
+                    "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                    "tags": ["cat-1", "retail masivo"],
+                     "categoryPageBanner": {
+                        "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                    },
+                    "subCategory": null
+                },
+                {
+                    "id": "6-2",
+                    "name": "Suministros",
+                    "description": "",
+                    "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                    "tags": ["cat-1", "retail masivo"],
+                     "categoryPageBanner": {
+                        "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                    },
+                    "subCategory": [
+                        {
+                            "id": "6-2-1",
+                            "name": "Etiquetas blandas",
+                            "description": "",
+                            "coverImage": "https://lh3.googleusercontent.com/d/1BtOIDVDKDCcTv5CZIfl3fruoNq2u-Px_",
+                            "tags": ["cat-1", "retail masivo"],
+                             "categoryPageBanner": {
+                                "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                                "title": "Nuestros Productos y Servicios",
+                                "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                            },
+                            "subCategory": null
+                        },
+                        {
+                            "id": "6-2-2",
+                            "name": "Etiquetas duras",
+                            "description": "",
+                            "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                            "tags": ["cat-1", "retail masivo"],
+                             "categoryPageBanner": {
+                                "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                                "title": "Nuestros Productos y Servicios",
+                                "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                            },
+                            "subCategory": null
+                        },
+                        {
+                            "id": "6-2-3",
+                            "name": "Ribbons",
+                            "description": "",
+                            "coverImage":"https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                            "tags": ["cat-1", "retail masivo"],
+                             "categoryPageBanner": {
+                                "coverImage":"https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                                "title": "Nuestros Productos y Servicios",
+                                "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                            },
+                            "subCategory": null
+                        }
+                    ]
+                },
+                {
+                    "id": "6-3",
+                    "name": "Equipos",
+                    "description": "",
+                    "coverImage": "https://lh3.googleusercontent.com/d/1BtOIDVDKDCcTv5CZIfl3fruoNq2u-Px_",
+                    "tags": ["cat-1", "retail masivo"],
+                     "categoryPageBanner": {
+                        "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                    },
+                    "subCategory": null
+                },
+                {
+                    "id": "6-4",
+                    "name": "Software",
+                    "description": "",
+                    "coverImage": "https://lh3.googleusercontent.com/d/1BtOIDVDKDCcTv5CZIfl3fruoNq2u-Px_",
+                    "tags": ["cat-1", "retail masivo"],
+                     "categoryPageBanner": {
+                        "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+                    },
+                    "subCategory": null
+                }
+            ],
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/1l6V7jESdJdJZ1Wpyb2x_oU85R-1RaMq6",
+                "title": "Nuestros Productos y Servicios",
+                "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            }
+        },
+        {
+            "id": "7",
+            "name": "Sistema de Seguridad Electrónica",
+            "description": "Ofrecemos soluciones específicas para la protección de artículos de alto valor en exhibición como celulares, tablets y laptops. Estos sistemas disuaden intentos de robo sin impedir la interacción del cliente con el producto, favoreciendo la venta segura.",
+            "coverImage": "https://lh3.googleusercontent.com/d/12CF2AIDHHiJ6PUeEkdobyju7M0KBOMRV",
+            "tags": ["cat-7"],
+            "subCategory": null,
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/14FS9Vvd9RH9owpHXuTEfj2S86bPq0m9Q",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            }
+        },
+        {
+            "id": "8",
+            "name": "Servicio Técnico",
+            "description": "Nuestro equipo de técnicos certificados brinda soporte integral: instalación profesional, mantenimiento preventivo, correctivo y asesoría continua para garantizar el óptimo rendimiento de todos los sistemas implementados.",
+            "coverImage": "https://lh3.googleusercontent.com/d/1PwXURQJgt1qF4BZ_jehGZd7QxwpfWyLE",
+            "tags": ["cat-8"],
+            "subCategory": null,
+            "categoryPageBanner": {
+                "coverImage": "https://lh3.googleusercontent.com/d/1Xh75HNWklwfZZBFPQGBes8RKIWBbl0jy",
+                        "title": "Nuestros Productos y Servicios",
+                        "subtitle": "Descubra nuestra amplia gama de soluciones tecnológicas para retail"
+            }
+        }
+    ],
+    "allProducts": [
+       
+        {
+            "id": "0002",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Dahua Transceiver Acrílica",
+            "subtitle": "",
+            "description": "Frecuencia:  AM  58 KHz\nMaterial: Acrílica y ABS\nDimensiones: 1521 x 360 x 134 mm\n Peso: 18.5 Kg\nDistancia de Detección de Etiquetas: 1.80 – 2.00 m con etiqueta blandas y 2.00 – 2.40 m con etiquetas duras.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1ecuE7MGmxsY2KW_ywpiuUcqMSrR4ogV9",
+                "https://lh3.googleusercontent.com/d/1nScNF8oVmLp2zGHhhs12c0OXBlTgh6-H"
+            ]
+        },
+        {
+            "id": "0003",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Wide - Body Network",
+            "subtitle": "",
+            "description": "Frecuencia: 58khz\nMaterial: ABS\nColor: Blanco\nDimensiones:  1580mm X 500 Mm X 125 Mm"
+,
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1GtzFkL0ipRQZn3O_R6OnheQdqGTb2bEU",
+                "https://lh3.googleusercontent.com/d/1QVoDXZ-JdJy2rhvGdRfBo20AsLV4_Pxt"
+            ]
+        },
+        {
+            "id": "0054",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Wide - Body Black Network",
+            "subtitle": "",
+            "description": "Frecuencia:  58khz\nMaterial: Acrilico\nColor: Blanco & Negro\nDimensiones: 1520 Mm X 400 Mm X 20mm"
+,
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/10eI613DXXTS4o5F5FQt8Oi0nYNEbTLnD",
+                "https://lh3.googleusercontent.com/d/159HkK9wsBV3AqwjjcTULoi6yncgJ39cg"
+            ]
+        },
+        {
+            "id": "0004",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Mini Pencil",
+            "subtitle": "",
+            "description": "Mini Pencil\nFrecuencia: 8.2MHz / 58KHz\nDimensión: 46mm × 13mm\nColor: Gris o Personalizado",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1bXcr1n9pxWjrsA9Ij_ZgcPxFCQWpWlUr",
+                "https://lh3.googleusercontent.com/d/1SILH25GkXbtbg6KcWprKThsEzAy_nTmC",
+                "https://lh3.googleusercontent.com/d/1xCbjifjz4axyHZwcW1hZMtIg64Bir7XK",
+                "https://lh3.googleusercontent.com/d/1S8zVnR2BkY7tp1t4zJ2cUUZ4a-9R-sPA"
+            ]
+        },
+        {
+            "id": "0004",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Super Pencil",
+            "subtitle": "",
+            "description": "SuperPencil\nFrecuencia: 58KHZ\nDimensiones: 65mm x 15mm\nColor: Gris",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1muY6sicaJ5sgFnlfaJRpEq3UfvdCLUhm",
+                "https://lh3.googleusercontent.com/d/1igspCAqMw951cHswOfVvVxaioOI2_w3Q",
+                "https://lh3.googleusercontent.com/d/19rJrp5QJBA7dILqoIxUG_zoCNExJwbEa"
+            ]
+        },
+        {
+            "id": "0005",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Super Tag",
+            "subtitle": "",
+            "description": "Frecuencia: 58KHZ\nDimensiones: 84mm x 30,5 mm\nColor: Gris",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1L9KSqmtbUhinUsXBvYGvL3LUdrb01tp3",
+                "https://lh3.googleusercontent.com/d/14OBcMIBREGtHOPFAjZhChCDx5Tz-sPAN",
+                "https://lh3.googleusercontent.com/d/1SwGyRoz8_NP8tG6JMxzP0VZ8xQFavoCv"
+            ]
+        },
+        {
+            "id": "0006",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Pencil Flat",
+            "subtitle": "",
+            "description": "Frecuencia: 58khz\nColor: Gris\nDimensiones:  63 x 13 mm",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                 "https://lh3.googleusercontent.com/d/1mtdINCcXRmyGYgyNxv2zKpktC8SMoIQe",
+                "https://lh3.googleusercontent.com/d/1As0KYwHpbwPwVnmpbqa_4wHAcQ5BFQAp",
+                "https://lh3.googleusercontent.com/d/1bQRUEmZ5AKVJDWB_JVxNrJma0xLatpaA"
+            ]
+        },
+        {
+            "id": "0007",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Detacher Manual",
+            "subtitle": "",
+            "description": "Para etiquetas supertag am\nDimensión: 28*13*8 cm\nMaterial: Plástico\nColor: Gris Oscuro",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1QNLM32AA48Y-GQKrzN2_uYMEJeL6Vv-Y",
+                "https://lh3.googleusercontent.com/d/1R8grFKNljxiuB_QDAaMCReNeCFALOkDF",
+                "https://lh3.googleusercontent.com/d/1TXKQy6iWX6GFi97nvuZ4XbhEcV3125SB"
+            ]
+        },
+        {
+            "id": "0008",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Detacher Eléctrico",
+            "subtitle": "",
+            "description": "Para etiquetas supertag am\nFrecuencia: 58khz\nColor: Gris Oscuro",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                 "https://lh3.googleusercontent.com/d/1AFQ0YjagUWGfYyoRa1K2Vmj3eRt2plNJ",
+                 "https://lh3.googleusercontent.com/d/17LVrLOGDKRyv4SooIMtWQwWrjgk9r2JW",
+                "https://lh3.googleusercontent.com/d/1yjWXOd2c_cQKTjYqWz9CqeloZIJdhpcU"
+                
+            ]
+        },
+        {
+            "id": "0009",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Desactivador Stand Alone",
+            "subtitle": "",
+            "description": "Frecuencia: 58khz\nDimensiones: 230x195mm'nColor: Gris Oscuron",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1YwrTY-tOpvG7RXF3vRgocbMyAjQDZi7o",
+                "https://lh3.googleusercontent.com/d/1SPVjd_xRusvDZafYZtYIv1GlSjq0NOL2",
+                "https://lh3.googleusercontent.com/d/1slzbXy7CoBvgl-TuYsbQRzk--16Dtd7z"
+            ]
+        },
+        {
+            "id": "0010",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Verificador",
+            "subtitle": "",
+            "description": "Frecuencia: 8.2MHz / 58KHz\nColor: Negro",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1kQTS3zagq18vTKGkOCu7lbRN_6fSHCwz",
+                "https://lh3.googleusercontent.com/d/1lkRJKAovENvm7XxDVoAw8nFAh3toL8VD",
+                "https://lh3.googleusercontent.com/d/1S5OXxtbxhToHrxCo2XkMnrni5xa9OSRK"
+            ]
+        },
+        {
+            "id": "0011",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Etiquetas Acustomagnéticas EAS AM",
+            "subtitle": "",
+            "description": "Frecuencia 58KHz\nLargo de la etiqueta: 45±0.2mm\nAncho de la etiqueta: 10.8±0.2mm\nModelos: código de barras/ Blanca/ Negra",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1zArbAFICeZZp_YpEXu9DgIfn23Dzop9Q",
+                "https://lh3.googleusercontent.com/d/1_GMhHcl_DyX_Mc8X_TySg0BjQGy_TQtd",
+                "https://lh3.googleusercontent.com/d/1BU6voTeo4tdLOy4omfeABISV6kceSXE7"
+            ]
+        },
+        {
+            "id": "0035",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Bottle Tag",
+            "subtitle": "",
+            "description": "Frecuencia: 8,2 MHZ\nDimensión: 33 x 17,5 mm\nColor: Negro",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1bxewnUFOXadoqSewys0dxhuXBs6qrTzq",
+                "https://lh3.googleusercontent.com/d/1wcQkNKw77SpRFkUDdDtb-nwzcYndTo3K",
+                "https://lh3.googleusercontent.com/d/1GV1hgiLWkpA4XFNsXY0TmnR6VQzI2wvt"
+            ]
+        },
+        {
+            "id": "0040",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Spider",
+            "subtitle": "",
+            "description": "Frecuencia: 8,2 MHz o 58KHz\nColor: Negro o gris\nDiámetro de la cuerda: 1.2mm o 1.6mm\nLongitud del cordón: 4x900mm o 4 x1200mm (máximo)\nVolumen alarma: 95 DB",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1fFPbmdwzqxaGFnCvjG-3JeKjpu_IhMSI",
+                "https://lh3.googleusercontent.com/d/10b8UFqL-oMCsbXkI6yNptegST3GgBILX",
+                "https://lh3.googleusercontent.com/d/1K367juhI48Ee5YxFpktPa93jIucsGR6O",
+                "https://lh3.googleusercontent.com/d/1xrlxdtBzrNyvANdU2P6GuBZ3nvkANcNb"
+            ]
+        },
+        {
+            "id": "0041",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Malla",
+            "subtitle": "",
+            "description": "Frecuencia: AM 58KHZ o RF 8.2 MHZ\nColor: Black\nDimensiones: Largo de la cuerda: 36 cm, 67 cm\nMaterial: ABS Plastic + Coil",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1sBnH5J0s-0_LGkGPHtItBHqMFfETLh7b",
+                "https://lh3.googleusercontent.com/d/11iwbKMhMDfcNmZNAw66KP52xhkHUjLE8",
+                "https://lh3.googleusercontent.com/d/1uJQOcJdu4GkIig9o5vhCedefvamoC_vF",
+                "https://lh3.googleusercontent.com/d/1RufeFCk2PRW505HvhsXBJ5DLrWiRf-61"
+            ]
+        },
+        {
+            "id": "0042",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Seguridad de Tarros de Leche",
+            "subtitle": "",
+            "description": "Frecuencia: AM 58 KHZ/ RF 8.2 MHZ\nColor: Gris\nDimensiones: 400 GR (128*35 MM) / 900 GR (152*35MM) / 1200 GR (187*35MM)\nMaterial: ABS",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/11sVJgFiAPdQbQThP--DMs3k-iTWaJJ00",
+                "https://lh3.googleusercontent.com/d/1E7TB5h3yJIidzpyNcLNT2oRSCJbZHxu_",
+                "https://lh3.googleusercontent.com/d/1_2BlgMEhvfdP5zNNz9QYtQHGwPc0cSKQ"
+            ]
+        },
+        {
+            "id": "0043",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Ganchera",
+            "subtitle": "",
+            "description": "Material: ABS\nTamaños: 13, 20, 23 cm\nColor: Blanco",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/17gtaNSTxUUI3Wx5qYK_5kJ_xh4kCea8Z",
+                "https://lh3.googleusercontent.com/d/1Bmp7wHEr9ood1hietr7EBIKy5JjXoN4s",
+                "https://lh3.googleusercontent.com/d/1UCU0pUleOJANHb2OzWxtyDoNJPZYxlu3"
+            ]
+        },
+        {
+            "id": "0044",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Safer",
+            "subtitle": "",
+            "description": "Frecuencia: AM 58 khz/ RF 8.2 MHz\nMaterial: Acrílico",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1V7sGyKTgoP2Nt58bkk4kWcupa9MgSvSn",
+                "https://lh3.googleusercontent.com/d/14Wr1V7jq6HPmIECh2Of48efEhVLfk_39",
+                "https://lh3.googleusercontent.com/d/1UzqWS-ecvJFwYCtONDG4MAncUQCi72Rw"
+            ]
+        },
+        {
+            "id": "0033",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Detacher",
+            "subtitle": "",
+            "description": "Material: Aleación de aluminio\nDiámetro:75mm\nFuerza magnética:10000GS/12000GS/Personalizar\nPeso:450g",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/15urOKsyvdXhYMNdEP5wNxWw13Eq-gJXB",
+                "https://lh3.googleusercontent.com/d/1ACQigaL7kS5i1Zmv6yJtUh2fdeAWQHih",
+                "https://lh3.googleusercontent.com/d/1xcs36NSWttIPzrf1GM2GY7L1--pe8HIX"
+            ]
+        },
+        {
+            "id": "0050",
+            "category": "1-1",
+            "rating": 5.0,
+            "name": "Multidetacher",
+            "subtitle": "",
+            "description": "Dimensiones: 108 Mm * 51 Mm * 47 Mm\nMaterial: Iman, Aluminio Plateado\nColor: Negro, Plata ",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS AM"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1XdpKc0Bsy_AtAAAUqEGVVO9p1Sk5mEee",
+                "https://lh3.googleusercontent.com/d/1UNCEyq0oRR22UOXMsuyNJsq5PyX2H3Um",
+                "https://lh3.googleusercontent.com/d/1cnaHl230EnVerqks-DWOJLd2edt3jB6A"
+            ]
+        },
+        
+        
+        
+        {
+            "id": "0012",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Dahua Transceiver Acrílica",
+            "subtitle": "",
+            "description": "Frecuencia:  RF 8.2 MHz\nMaterial: Acrílico\nDimensiones: 1569 mm × 350 mm × 134 mm\nPeso: 15 Kg (33.07 lb)",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1WICFM9KQKjvQDQiAizRKdXxvRbif34Tm",
+                "https://lh3.googleusercontent.com/d/14b6WGnSWq7gp3j5fYcNIMEQCC8HbhTqO",
+                "https://lh3.googleusercontent.com/d/1o-RlJlbXiDOZKa5M__v1ahf_sEwRpFyp"
+            ]
+        },
+        {
+            "id": "0013",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Dahua Transceiver Metálica ",
+            "subtitle": "",
+            "description": "Frecuencia:  RF 8.2 MHz\nMaterial: Aleación de Aluminio\nColor: Plata + Gris\nDimensiones: 500 (An) x 1650 (Al) x 120 (Fo) mm. c/u\nPeso: 11.5 Kg.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1A6EPbeCOfyXTrAuDz5oJYf7UbUXY3HVK",
+                "https://lh3.googleusercontent.com/d/132uTI17eM_hNPjXdQYYln8s3zrw65Bix",
+                "https://lh3.googleusercontent.com/d/1UMbBuqMsaTy_5YQg9vjb2W5B015bWslL"
+            ]
+        },
+        {
+            "id": "0014",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Dahua Transceiver ABS",
+            "subtitle": "",
+            "description": "Frecuencia de Detección: 8.2MHz\nMaterial de la carcasa: ABS \nColor de la carcasa: Plata + Gris\nDimensiones: 1675 mm x 390 mm x 110 mm",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1SWkM2h01IrBJWFCRkPIkG1iRGylvYP1d",
+                "https://lh3.googleusercontent.com/d/1sKemcU-Tas4fG2U8m1byqXdP1RPkOohm"
+            ]
+        },
+        {
+            "id": "0015",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Etiquetas duras EAS RF",
+            "subtitle": "",
+            "description": "Frecuencia: 8.2MHz\nColor: Negro\nMaterial: Alta Calidad y ABS plástico]nCerradura: Cerradura Magnética",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1L4SxcjWdbBHplVbXJMFXDVGWjGVuN8ja",
+                "https://lh3.googleusercontent.com/d/1ukdYWh7-lSB5dORRaf07HzyN0eE2wlPB",
+                "https://lh3.googleusercontent.com/d/1QBNywN9BWah8LY90XupkSUNYWSEkTaeK",
+                "https://lh3.googleusercontent.com/d/1-8ofVsrVIUufKSqBluKDVBptbN9-0Uur"
+            ]
+        },
+        {
+            "id": "0016",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Etiquetas de papel EAS RF",
+            "subtitle": "",
+            "description": "Frecuencia: 8.2MHz\nColor: Blanco y BC\nTamaños: 5x5, 4x4, 3x5, 3x4, 3x3, 2.5x2.8, 2.5x2.5",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1Nq5ObVkpLZNe6IJmfAvT-4MEmUBpNqye",
+                "https://lh3.googleusercontent.com/d/1ACQigaL7kS5i1Zmv6yJtUh2fdeAWQHih",
+                "https://lh3.googleusercontent.com/d/1pkytafI8u_oMi-f-jiCWtabqtDj1MTkl",
+                "https://lh3.googleusercontent.com/d/1DQd5BesKWwIukcfA8_QO6XhCGh9Dnzvo"
+            ]
+        },
+        {
+            "id": "0033",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Detacher",
+            "subtitle": "",
+            "description": "Material: Aleación de aluminio\nDiámetro:75mm\nFuerza magnética:10000GS/12000GS/Personalizar\nPeso:450g",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/15urOKsyvdXhYMNdEP5wNxWw13Eq-gJXB",
+                "https://lh3.googleusercontent.com/d/1ACQigaL7kS5i1Zmv6yJtUh2fdeAWQHih",
+                "https://lh3.googleusercontent.com/d/1xcs36NSWttIPzrf1GM2GY7L1--pe8HIX"
+            ]
+        },
+        {
+            "id": "0034",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Chassis",
+            "subtitle": "",
+            "description": "Frecuencia: 8,2 MHZ\nDesactivación de altura:30cm\nUso: Desactivador de etiquetas EAS 8,2 MHz RF con alarma de sonido y luz.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1WArH1X7UvS_Up6c6nP_riAPI13hy2Cn3"
+            ]
+        },
+        {
+            "id": "0035",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Bottle Tag",
+            "subtitle": "",
+            "description": "Frecuencia: 8,2 MHZ\nDimensión: 33 x 17,5 mm\nColor: Negro",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1bxewnUFOXadoqSewys0dxhuXBs6qrTzq",
+                "https://lh3.googleusercontent.com/d/1wcQkNKw77SpRFkUDdDtb-nwzcYndTo3K",
+                "https://lh3.googleusercontent.com/d/1GV1hgiLWkpA4XFNsXY0TmnR6VQzI2wvt"
+            ]
+        },
+        {
+            "id": "0036",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Pin",
+            "subtitle": "",
+            "description": "Material: Metálico\nDimensión: 16 mm/ 19mm/ 21mm \nDiámetro de la cabeza: 012 mm",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1RihOiRwNDp0mpEghGDmQ8S62iKmQfRT8",
+                "https://lh3.googleusercontent.com/d/17TsiqmnVGdKLwyKCpCUyJ3XOo74rnvcC"
+            ]
+        },
+        {
+            "id": "0037",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Lazo",
+            "subtitle": "",
+            "description": "Material: Acero inoxidable, recubierto de PVC\nColor: Blanco/ Negro\nTamaño: 17, 21,50 cm.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1uoi9gxEDDbnx23jhXS2b6nkMjjzofOA9",
+                "https://lh3.googleusercontent.com/d/1yWRrjZ2o8GtrOxOPGhuDF37DM1bnx-7U",
+                "https://lh3.googleusercontent.com/d/1TfvOWVsQiyoKf1zzcE6uoHnJ_or7QJ5J",
+                "https://lh3.googleusercontent.com/d/1YxboU5kMZE9NPc_ajfVs2l5avM0fXYUY"
+            ]
+        },
+        {
+            "id": "0038",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "CanClip",
+            "subtitle": "",
+            "description": "Frecuencia: 58KHz, 8.2MHz\nDimensión: 68 x 40 x 15 mm\nColor: Negro, personalizado",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1Wc1pVqHaAwokJfEKll_trWgYBiWSQkuF",
+                "https://lh3.googleusercontent.com/d/1We_LC_ll4EybLweYewbXDJY6dhK7V_kK",
+                "https://lh3.googleusercontent.com/d/1nXu3f5AqO4ZAur1luQCEkTW8yGebuKel",
+                "https://lh3.googleusercontent.com/d/1HenDoz9lIbolruS-SsxeK-cCs12FYNcs",
+                "https://lh3.googleusercontent.com/d/1NJyHgZVyuzd3gW8XA7mBg2aP67-OSO4R"
+            ]
+        },
+        {
+            "id": "0039",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Optical Tag Small",
+            "subtitle": "",
+            "description": "Frecuencia: 58KHz, 8.2MHz\nDimensión: 25x23x27 mm\nColor: Blanco y Gris",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1lxoHDPF3xoSf3EhBWbBudXRsnRmuCfwk",
+                "https://lh3.googleusercontent.com/d/1DkCC7gn6lKke8d0yjbnWBlyXxh22CCb1",
+                "https://lh3.googleusercontent.com/d/1zRuF2wTL2ZrVAU-D79QhHv_gPdHrdHSL"
+            ]
+        },
+        {
+            "id": "0040",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Spider",
+            "subtitle": "",
+            "description": "Frecuencia: 8,2 MHz o 58KHz\nColor: Negro o gris\nDiámetro de la cuerda: 1.2mm o 1.6mm\nLongitud del cordón: 4x900mm o 4 x1200mm (máximo)\nVolumen alarma: 95 DB",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1fFPbmdwzqxaGFnCvjG-3JeKjpu_IhMSI",
+                "https://lh3.googleusercontent.com/d/10b8UFqL-oMCsbXkI6yNptegST3GgBILX",
+                "https://lh3.googleusercontent.com/d/1K367juhI48Ee5YxFpktPa93jIucsGR6O",
+                "https://lh3.googleusercontent.com/d/1xrlxdtBzrNyvANdU2P6GuBZ3nvkANcNb"
+            ]
+        },
+        {
+            "id": "0041",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Malla",
+            "subtitle": "",
+            "description": "Frecuencia: AM 58KHZ o RF 8.2 MHZ\nColor: Black\nDimensiones: Largo de la cuerda: 36 cm, 67 cm\nMaterial: ABS Plastic + Coil",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1sBnH5J0s-0_LGkGPHtItBHqMFfETLh7b",
+                "https://lh3.googleusercontent.com/d/11iwbKMhMDfcNmZNAw66KP52xhkHUjLE8",
+                "https://lh3.googleusercontent.com/d/1uJQOcJdu4GkIig9o5vhCedefvamoC_vF",
+                "https://lh3.googleusercontent.com/d/1RufeFCk2PRW505HvhsXBJ5DLrWiRf-61"
+            ]
+        },
+        {
+            "id": "0042",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Seguridad de Tarros de Leche",
+            "subtitle": "",
+            "description": "Frecuencia: AM 58 KHZ/ RF 8.2 MHZ\nColor: Gris\nDimensiones: 400 GR (128*35 MM) / 900 GR (152*35MM) / 1200 GR (187*35MM)\nMaterial: ABS",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/11sVJgFiAPdQbQThP--DMs3k-iTWaJJ00",
+                "https://lh3.googleusercontent.com/d/1E7TB5h3yJIidzpyNcLNT2oRSCJbZHxu_",
+                "https://lh3.googleusercontent.com/d/1_2BlgMEhvfdP5zNNz9QYtQHGwPc0cSKQ"
+            ]
+        },
+        {
+            "id": "0043",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Ganchera",
+            "subtitle": "",
+            "description": "Material: ABS\nTamaños: 13, 20, 23 cm\nColor: Blanco",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/17gtaNSTxUUI3Wx5qYK_5kJ_xh4kCea8Z",
+                "https://lh3.googleusercontent.com/d/1Bmp7wHEr9ood1hietr7EBIKy5JjXoN4s",
+                "https://lh3.googleusercontent.com/d/1UCU0pUleOJANHb2OzWxtyDoNJPZYxlu3"
+            ]
+        },
+        {
+            "id": "0044",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Safer",
+            "subtitle": "",
+            "description": "Frecuencia: AM 58 khz/ RF 8.2 MHz\nMaterial: Acrílico",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1V7sGyKTgoP2Nt58bkk4kWcupa9MgSvSn",
+                "https://lh3.googleusercontent.com/d/14Wr1V7jq6HPmIECh2Of48efEhVLfk_39",
+                "https://lh3.googleusercontent.com/d/1UzqWS-ecvJFwYCtONDG4MAncUQCi72Rw"
+            ]
+        },
+        {
+            "id": "0045",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Mini Pencil",
+            "subtitle": "",
+            "description": "Mini Pencil\nFrecuencia: 8.2MHz / 58KHz\nDimensión: 46mm × 13mm\nColor: Gris o Personalizado",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1bXcr1n9pxWjrsA9Ij_ZgcPxFCQWpWlUr",
+                "https://lh3.googleusercontent.com/d/1SILH25GkXbtbg6KcWprKThsEzAy_nTmC",
+                "https://lh3.googleusercontent.com/d/1xCbjifjz4axyHZwcW1hZMtIg64Bir7XK",
+                "https://lh3.googleusercontent.com/d/1S8zVnR2BkY7tp1t4zJ2cUUZ4a-9R-sPA"
+            ]
+        },
+        {
+            "id": "0047",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Stop Lock",
+            "subtitle": "",
+            "description": "Dimensiones: 15x36,5x21,5mm\nDiámetro: 04mm,05mm,06mm,07mm,08mm\nColor: Rojo",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1s3zYiY6P_yrMSw367CQ1g5yzXfTHcOBT",
+                "https://lh3.googleusercontent.com/d/1G0H15LqIhz291SyqtmKBA-cPByJgZ4Wf",
+                "https://lh3.googleusercontent.com/d/1SUm-tByDb7eJf6Pd2UclHn7jdawZYdpf"
+            ]
+        },
+        {
+            "id": "0047",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Llave para Ganchera",
+            "subtitle": "",
+            "description": "Dimensiones: 65*15 *15mm\nMaterial: Abs\nColor: Negro",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1dULdcpkl1wbcTfenn3qiScbPey1wN5yB",
+                "https://lh3.googleusercontent.com/d/1i42mnjOguj5B32oFjExx8L9sCHCm32cl",
+                "https://lh3.googleusercontent.com/d/1rXtp64idlF5tgkWyFbCb4MIS_K1RBu_p",
+                "https://lh3.googleusercontent.com/d/176qJ334cFwwzQd1t9tYm6ki_0emkkYH5"
+            ]
+        },
+        {
+            "id": "0048",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Micro Detacher",
+            "subtitle": "",
+            "description": "Dimensiones: 9 Cm De Longitud\nMaterial: Iman, Aluminio Plateado \nColor: Negro ",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1gCoBS25v0C7Rn2pEnDl1fNno_mqV7kH0",
+                "https://lh3.googleusercontent.com/d/1-yJvFQt5VribM58Fcci9hlPfaKM5FD3P"
+            ]
+        },
+        {
+            "id": "0049",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Llave de Stop Lock",
+            "subtitle": "",
+            "description": "Dimensiones: 21.5*57 Mm\nMaterial: Iman Y Óxido De Aluminio\nColor: Plateado ",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1RJQDo-u38HJ8JCGA4a_cfbPPOe1b149J",
+                "https://lh3.googleusercontent.com/d/1MoDrPEA9E_eX7ZYQZeE5xEjctZIyop5m",
+                "https://lh3.googleusercontent.com/d/1fpr810IXVOYOwcqX22lqCtEYeC-davi-",
+                "https://lh3.googleusercontent.com/d/1v5gqPmxIXQRG4mKREyDGhADmeMHcjAHH"
+            ]
+        },
+        {
+            "id": "0050",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Multidetacher",
+            "subtitle": "",
+            "description": "Dimensiones: 108 Mm * 51 Mm * 47 Mm\nMaterial: Iman, Aluminio Plateado\nColor: Negro, Plata ",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1XdpKc0Bsy_AtAAAUqEGVVO9p1Sk5mEee",
+                "https://lh3.googleusercontent.com/d/1UNCEyq0oRR22UOXMsuyNJsq5PyX2H3Um",
+                "https://lh3.googleusercontent.com/d/1cnaHl230EnVerqks-DWOJLd2edt3jB6A"
+            ]
+        },
+        {
+            "id": "0051",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Etiqueta Dura Maxi",
+            "subtitle": "",
+            "description": "Frecuencia: 8.2 Mhz\nMaterial: Abs\nColor: Gris, Negro",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1_OObXqQ6Yfv5zfV6R-Q79lZc49oiJnrI",
+                "https://lh3.googleusercontent.com/d/1fHV4VGHXrWjX7_I__b9dI7ufIwlShC9I",
+                "https://lh3.googleusercontent.com/d/1bs2Svxvaos6tQUTO3odnmi2S1rAUVh2G"
+            ]
+        },
+        {
+            "id": "0052",
+            "category": "1-2",
+            "rating": 5.0,
+            "name": "Optical Tag",
+            "subtitle": "",
+            "description": "Frecuencia: 8.2mhz\nDimensión: 42mmx37mmx26mm\nColor: Blanco O Gris",
+      
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["EAS RF"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1VFc7rnAzXM2OR2KU9lrGZKvTDdONHI7H",
+                "https://lh3.googleusercontent.com/d/1VlkGlQKRVU3hN_dnTQq1-CYDW2eTex27"
+            ]
+        },
+        
+        
+        {
+            "id": "0017",
+            "category": "2",
+            "rating": 5.0,
+            "name": "Preciadores SES",
+            "subtitle": "",
+            "description": "Color: Blanco/Negro\nTamaño: 1.5, 2.1, 2.2, 2.6, 3.5 , 4.2, 7.4, 9.7",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Sistema ESL"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1cWUDIkqMzEwZGZRpWmeqIau-7eGIVfw7",
+                "https://lh3.googleusercontent.com/d/15uZswTNzeUbzYTQJudxZ8PvUFPTkQ3bR",
+                "https://lh3.googleusercontent.com/d/1UsqVJsbGCiBcIN7PKWIjQIaHAC1acgT5",
+                "https://lh3.googleusercontent.com/d/1aH8EzxErDBR7-l5XZtl06Qx_t0MZMVNW",
+                "https://lh3.googleusercontent.com/d/1rnpvzAeBdZtNIikhNwPwlIexcyzEm2LM"
+            ]
+        },
+        {
+            "id": "0018",
+            "category": "2",
+            "rating": 5.0,
+            "name": "Vusion",
+            "subtitle": "",
+            "description": "Color: Negro\nTamaño: 2ft, 3ft, 4ft",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Sistema ESL"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1f8_4f62ljB5Z5xk6kNjygfbfsuI92BuT",
+                "https://lh3.googleusercontent.com/d/1ZjQDQPesr74OmJIwNSamfDvUILiKSWbo",
+                "https://lh3.googleusercontent.com/d/1VmxbOP_e7wOQEgHsBcCmvbjt5WTRuRI7",
+                "https://lh3.googleusercontent.com/d/1gMK3Tp5cnrLiaro7PjYHYiY-Lp9eWrxp"
+            ]
+        },
+        
+        
+        
+        {
+            "id": "0019",
+            "category": "3",
+            "rating": 5.0,
+            "name": "Mps",
+            "subtitle": "",
+            "description": "Material: Metal\nColor: negro\nDimensiones: 184.5mm x 105 mm x 30 mm]\nSistema operativo: Android 8.1\nWI-FI: Soporta 2.4GHZ\nFormato de video: mp4, avi, mov, asf, mkv, wmv",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Cartelera Digital MPS"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1VKyAzxGau7n7gq3JLlZ4lSF41riZwsvz",
+                "https://lh3.googleusercontent.com/d/16F_YMumqY-YP_mjWZoU2-pQj58UiYVrs",
+                "https://lh3.googleusercontent.com/d/1egYaYwxedO6EdXNp75tQ03lvPEMZKIOd"
+            ]
+        },
+        
+        
+        
+        {
+            "id": "0021",
+            "category": "4",
+            "rating": 5.0,
+            "name": "Pizarra",
+            "subtitle": "",
+            "description": "Proyección inalámbrica\nPantalla táctil 4k UHD\nPizarra inteligente\nGestión de archivos",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["DEEPHUB"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/16zpRYw5Y9FqGPcCynVdwYJLlqwwY_u_1",
+                "https://lh3.googleusercontent.com/d/1248LvusKDsk18LmyuCi4xbbpdtXYg653",
+                "https://lh3.googleusercontent.com/d/1FuEVrZ0pljpLmvK2nhkaDo8wZ_JCvJ2a"
+            ]
+        },
+        
+        
+        
+        {
+            "id": "0022",
+            "category": "5",
+            "rating": 5.0,
+            "name": "Contador de Personas",
+            "subtitle": "",
+            "description": "Optimiza la gestión de tu negocio con nuestras soluciones de conteo de personas impulsadas por cámaras Dahua con inteligencia artificial y obten analítica de comportamiento como:\n- Detección de dirección de movimiento (entrada / salida).\n- Identificación de horas pico.\n - Tasa de conversión (clientes que ingresan vs. compras realizadas).\n- Densidad de personas en zonas específicas del local.\n\nToda esta información se presenta en reportes gráficos que permiten:\n\n - Mejorar la distribución del personal según horarios y afluencia.\n- Ajustar campañas de marketing según el tráfico en tienda.\n- Maximizar la experiencia del cliente y optimizar los recursos. ",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["CCTV"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1Rfk_LMhU5XrlnU-i31p18lzZWpG4RrXi",
+                "https://lh3.googleusercontent.com/d/1ZnkR9wR6KBsDQpqBRNfmfq_l6wKTXLBN",
+                "https://lh3.googleusercontent.com/d/1l-PwdqPZrbeltnBWOkpb0jyHPpks_qsF",
+                "https://lh3.googleusercontent.com/d/1nGkqkQSszayIUVI9JErGZtSM_J_J7PMv"
+            ]
+        },
+        {
+            "id": "0023",
+            "category": "5",
+            "rating": 5.0,
+            "name": "Mapa de Calor",
+            "subtitle": "",
+            "description": "Descubre qué áreas de tu tienda captan más la atención de tus clientes con el mapa de calor, una herramienta inteligente integrada en las cámaras Dahua con IA.\n\nGracias a esta tecnología, puedes:\n\n- Identificar los puntos calientes donde los clientes pasan más tiempo.\n- Detectar zonas frías con baja interacción para reubicar productos o mejorar la señalización.\n- Evaluar la efectividad de exhibiciones, promociones o distribución del mobiliario.\n- Tomar decisiones basadas en datos para mejorar la experiencia de compra y aumentar las ventas.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["CCTV"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/18LRnc9bHpR1aOjK8jO3EnVKfJQUrX_0y",
+                "https://lh3.googleusercontent.com/d/1w_fYfyK3flpySLBdO_hLQLASAIVHOv7n",
+                "https://lh3.googleusercontent.com/d/14kfCBoOvGkz2vJDUptCaeUeDHPVaOrnU",
+                "https://lh3.googleusercontent.com/d/1dA9ocOn4KqMmbLkngCY8byEnz1bzMgya"
+            ]
+        },
+        {
+            "id": "0024",
+            "category": "5",
+            "rating": 5.0,
+            "name": "Reconocimiento Facial",
+            "subtitle": "",
+            "description": "Incrementa la seguridad y mejora la gestión de acceso con el reconocimiento facial que ofrecen las cámaras Dahua con inteligencia artificial.\n\nEntre sus principales beneficios destacan:\n\n- Control de acceso inteligente: permite autorizar o restringir el ingreso de personas automáticamente.\n- Identificación en tiempo real: compara rostros detectados con una base de datos preestablecida.\n- Alertas automáticas ante la detección de personas no autorizadas o listas negras.\n- Registro detallado de eventos, incluyendo fecha, hora y ubicación de cada reconocimiento.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["CCTV"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1TK1w8P9A_f71_22T0lmAZaljFLvRAq-O",
+                "https://lh3.googleusercontent.com/d/12nQfaREB7VOCW-_3VZ0d562debepHjKb",
+                "https://lh3.googleusercontent.com/d/1owMYGkPFhtJ9TU9WcO-h0808EGK_dB_K",
+                "https://lh3.googleusercontent.com/d/10OHUeoL0N_j9ojQRZgSn1xfmeKcyzPiP"
+            ]
+        },
+        {
+            "id": "0025",
+            "category": "5",
+            "rating": 5.0,
+            "name": "Merodeo",
+            "subtitle": "",
+            "description": "Protege tu negocio de actividades sospechosas con la detección de merodeo que ofrecen las cámaras Dahua con inteligencia artificial. Esta función avanzada permite identificar comportamientos inusuales, como la permanencia prolongada de una persona en un área específica sin una actividad clara.\n\nLa IA analiza el patrón de movimiento y activas alertas cuando:\n- Una persona permanece en una zona restringida o sensible por más tiempo del permitido.\n- Se detecta un comportamiento que podría indicar intención de hurto o sabotaje.\n- Hay rondas repetitivas cerca de vitrinas, cajas, accesos o productos de alto valor.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["CCTV"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1kghseelzDNoSVOfFi60gZh80EZTsXy2H",
+                "https://lh3.googleusercontent.com/d/1T9BYmqTGhqn8qMfPHaSGN7n4GERuL-Bn",
+                "https://lh3.googleusercontent.com/d/1YnBf56h7ko8nTPTCNkuwX0yHEGdAFgDg",
+                "https://lh3.googleusercontent.com/d/1SiCdkOMwjMEFXP9QSCld7QD0eHDyGsOL"
+            ]
+        },
+        {
+            "id": "0026",
+            "category": "5",
+            "rating": 5.0,
+            "name": "Control de placas",
+            "subtitle": "",
+            "description": "Automatiza el control vehicular y refuerza la seguridad con el sistema de lectura de placas (LPR) de las cámaras Dahua con inteligencia artificial. Esta tecnología permite leer, reconocer y registrar las matrículas de vehículos en tiempo real, incluso a alta velocidad o en condiciones adversas.\n\nEntre sus principales ventajas se destacan:\n\n- Registro automático de placas con hora, fecha y ubicación.\n- Control de acceso vehicular para parqueaderos, residencias, empresas y centros logísticos.\n- Comparación con listas blancas o negras para permitir o denegar el paso automáticamente.\n- Generación de alertas instantáneas ante vehículos no autorizados o sospechosos.",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["CCTV"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1P_VV18J1wmgnuH6qPSNCVGxV6IW4sur2",
+                "https://lh3.googleusercontent.com/d/18KQHD-CM88R_ggvDgb5sUbHtbqxZNnqB",
+                "https://lh3.googleusercontent.com/d/1R-JQFfhRIZVqKnFf2pVM5P12-WgEWqvU",
+                "https://lh3.googleusercontent.com/d/1f_k6upicQzZv_jJejbapFqeVmT2sRPlk"
+            ]
+        },
+        {
+            "id": "0031",
+            "category": "6",
+            "rating": 5.0,
+            "name": "Servicio de Inventario RFID",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1UzAfRTvMHo98ozKjz4dUV858qxnBLT8W",
+                "https://lh3.googleusercontent.com/d/1ZYFY9KEoCnES0yVFRj_TD2M9PmrBxkfX",
+                "https://lh3.googleusercontent.com/d/1cQ9HLqhu43Q0air9UGOJ9wrQ-5abDd84"
+            ]
+        },
+        {
+            "id": "0032",
+            "category": "6",
+            "rating": 5.0,
+            "name": "Control de llantas",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+               "https://lh3.googleusercontent.com/d/1NHJWwo6TJuqkuciBXhsdu70-iSAMGsBJ",
+               "https://lh3.googleusercontent.com/d/1oCAc1OWsWX-ztOSNliZVyeacGMbIVA4f",
+               "https://lh3.googleusercontent.com/d/1cQ9HLqhu43Q0air9UGOJ9wrQ-5abDd84"
+            ]
+        },
+        {
+            "id": "0033",
+            "category": "6",
+            "rating": 5.0,
+            "name": "Etiquetas duras RFID",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1BDEU-72_yMo24dgVbLxgmBwVCl_xQ0XD",
+                "https://lh3.googleusercontent.com/d/1X9xrvU0Qb44MeLycwY6SdgjcM7C0DWct",
+                "https://lh3.googleusercontent.com/d/18wfzo0-2Anr45hTfHTIN9wcEL1870G-G",
+                "https://lh3.googleusercontent.com/d/1S8FiI679CbWs0nYyh4HIKGEC9iYDBq08"
+            ]
+        },
+        {
+            "id": "0034",
+            "category": "6",
+            "rating": 5.0,
+            "name": "Etiquetas blandas RFID",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1GhFzBNbW2OS2J1VPQTNe_WjTT-pAmlkb",
+                "https://lh3.googleusercontent.com/d/14SbBJK74YluWM1uEo8jjyxfP9Tw4rVCc",
+                "https://lh3.googleusercontent.com/d/14N7PPKWvo21_M9snWbHa8m1Yx13hZM6c",
+                "https://lh3.googleusercontent.com/d/1Q8_CWD_Tq-k1bTRM7EA63DRWcd9PBDmc"
+            ]
+        },
+        {
+            "id": "0035",
+            "category": "6",
+            "rating": 5.0,
+            "name": "Impresora RFID",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1P1RY9zzOGVjSh3hHvnHhgIomfE_5c8xd",
+                "https://lh3.googleusercontent.com/d/1hNGrFCIz2z2ZZqGzhO38UtavnqZd-Lp9",
+                "https://lh3.googleusercontent.com/d/1j0CtlG38AwotG2v0Q754kQ2S_J_2DTyR"
+            ]
+        },
+        {
+            "id": "0036",
+            "category": "6",
+            "rating": 5.0,
+            "name": "Handheld Modelo 1",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1ENLsc1PFu4X4IsdBnrrXgifg6s0kCj9N",
+                "https://lh3.googleusercontent.com/d/187b5Exdu6xzwuA1dDj7A13RKR_eza0f8",
+                "https://lh3.googleusercontent.com/d/1d2I_MiX3D1bj1AWtSYv5vWx6jyIi-F9K"
+            ]
+        },
+        {
+            "id": "0037",
+            "category": "6",
+            "rating": 5.0,
+            "name": "Handheld Modelo 2",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1IQqi3Ct0xJXLuHXBCFCCbkEQExYG9Iys",
+                "https://lh3.googleusercontent.com/d/1OblvcTgloac1oKJqGNPjWYO8LsKDTi09",
+                "https://lh3.googleusercontent.com/d/1F-pLLCgulcFQy5cS4hd3tfCQMbkh-XD4"
+            ]
+        },
+        {
+            "id": "0038",
+            "category": "6",
+            "rating": 5.0,
+            "name": "RFID Reader",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0053",
+            "category": "6-1",
+            "rating": 5.0,
+            "name": "Oursourcing RFID alquiler",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0054",
+            "category": "6-1",
+            "rating": 5.0,
+            "name": "Servicio de consultoria",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0055",
+            "category": "6-1",
+            "rating": 5.0,
+            "name": "Impresion y encodificacion",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0039",
+            "category": "6-2-3",
+            "rating": 5.0,
+            "name": "Ribbons",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0040",
+            "category": "6-2-1",
+            "rating": 5.0,
+            "name": "Superficies metalicas",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0041",
+            "category": "6-2-1",
+            "rating": 5.0,
+            "name": "Control de llantas",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0042",
+            "category": "6-2-1",
+            "rating": 5.0,
+            "name": "Etiquetas para ropa",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0043",
+            "category": "6-2-1",
+            "rating": 5.0,
+            "name": "Superficies no metalizadas",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0044",
+            "category": "6-2-2",
+            "rating": 5.0,
+            "name": "Superficies metalicas",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0045",
+            "category": "6-2-2",
+            "rating": 5.0,
+            "name": "Etiquetas tipo lazo",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0046",
+            "category": "6-3",
+            "rating": 5.0,
+            "name": "Impresoras",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0047",
+            "category": "6-3",
+            "rating": 5.0,
+            "name": "Handheld",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0048",
+            "category": "6-3",
+            "rating": 5.0,
+            "name": "Antenas RFID",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0049",
+            "category": "6-3",
+            "rating": 5.0,
+            "name": "Readers",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0050",
+            "category": "6-4",
+            "rating": 5.0,
+            "name": "Sistema control de portales",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0051",
+            "category": "6-4",
+            "rating": 5.0,
+            "name": "App Moviles",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0052",
+            "category": "6-4",
+            "rating": 5.0,
+            "name": "Sistemas de escritorio",
+            "subtitle": "",
+            "description": "",
+            "stock": 0,
+            "price": 10.50,
+            "tags": ["RFID"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1K7Zu5FYdJSOZkbsocv_81sNSPcfBzIfe"
+            ]
+        },
+        {
+            "id": "0027",
+            "category": "7",
+            "rating": 5.0,
+            "name": "Módulos y regletas",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Seguridad Electrónica"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1bcFlL-yqmzK2QA_k-OmrObka2xLJA4Qa",
+                "https://lh3.googleusercontent.com/d/1TlICM9I8OcMFnVgndzE7Sw83P3ogkCvC",
+                "https://lh3.googleusercontent.com/d/1sKZZ-IIaDuQXFWK-88nRQ2AlDJK3CxYv"
+            ]
+        },
+        {
+            "id": "0028",
+            "category": "7",
+            "rating": 5.0,
+            "name": "Módulo para Vitrina",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Seguridad Electrónica"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1alZxj6myiayK-_XxFtnZyDomrSQaWsem",
+                "https://lh3.googleusercontent.com/d/1tMrg_1Tqa5DoxfSebSr4FrgPuY_Hvs21",
+                "https://lh3.googleusercontent.com/d/1mPdlUHZOuktMm1MupOHEpYwBG-AhnCph"
+            ]
+        },
+        {
+            "id": "0029",
+            "category": "7",
+            "rating": 5.0,
+            "name": "Sensor usb 3.0",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Seguridad Electrónica"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1-mQ_ff30lVLO3IBopsLYpsRoN_lujyBh",
+                "https://lh3.googleusercontent.com/d/1aGjB-4AqWK0kuztKo2eKaLe2ONQMLzF-"
+            ]
+        },
+        {
+            "id": "0030",
+            "category": "7",
+            "rating": 5.0,
+            "name": "Stand de Seguridad",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Seguridad Electrónica"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/1cLi5LdgB9bAKxJFayCcQCiU4qaKV-6_z",
+                "https://lh3.googleusercontent.com/d/1RMwL2E4N4NoPMqqTFWkj7PSosD4ZmiUz",
+                "https://lh3.googleusercontent.com/d/1EbmyH3PdyT_V1njNDgmbcU8llM1dVsW0"
+            ]
+        },
+        {
+            "id": "0046",
+            "category": "7",
+            "rating": 5.0,
+            "name": "Seguridad para Lapto",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Seguridad Electrónica"],
+            "images": [
+              "https://lh3.googleusercontent.com/d/1pp9PomAyPA-TP0dWmejR-hnLeaMfjfIe",  
+              "https://lh3.googleusercontent.com/d/14PTbnXH1LBDuOVtZx77qoXImDkV2q2sU"
+                
+            ]
+        },
+         {
+            "id": "0045",
+            "category": "8",
+            "rating": 5.0,
+            "name": "Servicio Técnico",
+            "subtitle": "",
+            "description": "",
+            "stock": 10,
+            "price": 10.50,
+            "tags": ["Servicio Técnico"],
+            "images": [
+                "https://lh3.googleusercontent.com/d/14Sq2qgBWViZnfhDtSX-it1RvwmFyNJwi",
+                "https://lh3.googleusercontent.com/d/1FCLR2Qoj20F1FU0by_Y4q_qWoPOt_4nN"
+            ]
+        }
+    ],
+    "ourClients": [
+        {
+            "id": "001",
+            "name": "Watch Wolrd",
+            "clientImage": "https://lh3.googleusercontent.com/d/1-wOUmR4vVdKOksmEMO9aeK16TDgYYkff"
+        },
+      {
+            "id": "002",
+            "name": "Indurama",
+            "clientImage": "https://lh3.googleusercontent.com/d/12bJVA6k2zrfpKDCUL4hTRAushuu_1fRY"
+        },
+       {
+            "id": "003",
+            "name": "Calvin Klein",
+              "clientImage": "https://lh3.googleusercontent.com/d/151_btf96enGMFw27qJXiJLlOTV9tCrZY"
+        },
+       {
+            "id": "004",
+            "name": "KITTON",
+            "clientImage": "https://lh3.googleusercontent.com/d/16hUrX-LhDHJkRp6Oac325rIOo1GNqqXj"
+        },
+       {
+            "id": "005",
+            "name": "Marriott",
+            "clientImage": "https://lh3.googleusercontent.com/d/19BQQ-phFNrnGiufOhI9hVIv3ZnbD7Upk"
+        },
+       {
+            "id": "006",
+            "name": "Tommy Hilfiger",
+            "clientImage": "https://lh3.googleusercontent.com/d/1HP_ehZy8_mmEJeNSKn2SUiISAs0g2eQA"
+        },
+       {
+            "id": "007",
+            "name": "Corporacion Favorita",
+            "clientImage": "https://lh3.googleusercontent.com/d/1IKeROs7oyDbj9hDnyErjBfC2v0eBUvIN"
+        },
+       {
+            "id": "008",
+            "name": "Salecsiana",
+            "clientImage": "https://lh3.googleusercontent.com/d/1IVsYe0uAI4gcnrViVerWQQEcTlOICyNf"
+        },
+      {
+            "id": "009",
+            "name": "EtaFashion",
+            "clientImage": "https://lh3.googleusercontent.com/d/1M5_mh7Jj7T6XaLvtgggQ-8Zdlc1S6boM"
+        },
+      {
+            "id": "010",
+            "name": "Dipaso",
+            "clientImage": "https://lh3.googleusercontent.com/d/1V4PWnu6Iy9T7BlLMrHQqrq1fuQGgC7_x"
+        },
+      {
+            "id": "011",
+            "name": "Levis",
+            "clientImage": "https://lh3.googleusercontent.com/d/1W9mbs9ZGFboHO39eTVCware9h8sD-ikx"
+        },
+      {
+            "id": "012",
+            "name": "Artefacta",
+            "clientImage": "https://lh3.googleusercontent.com/d/1ZHGwxqhaNb0F2wPLZSpZajYwADo3yacC"
+        },
+      {
+            "id": "013",
+            "name": "La 29 Coop",
+            "clientImage": "https://lh3.googleusercontent.com/d/1eJ865rgm4L6Im44WooeOW7cfnBc-9Qhw"
+        },
+      {
+            "id": "014",
+            "name": "Promart",
+            "clientImage": "https://lh3.googleusercontent.com/d/1iyl8C4z-iuknga5DtX0zynucyX4cfxmk"
+        },
+      {
+            "id": "015",
+            "name": "Estuardo Sanchez",
+            "clientImage": "https://lh3.googleusercontent.com/d/1msrLhyaMwW3adenqm17zzFmFB60d7odt"
+        },
+      {
+            "id": "016",
+            "name": "GeApp Tech",
+            "clientImage": "https://lh3.googleusercontent.com/d/1mzN9VWe73hNRZu5Z5rYXAZqZx22Zf0J1"
+        },
+      {
+            "id": "017",
+            "name": "DePrati",
+            "clientImage": "https://lh3.googleusercontent.com/d/1ncAWUyjtwPxCRjzDE0hpTqM0bl7XPlJr"
+        },
+      {
+            "id": "018",
+            "name": "Marcimex",
+            "clientImage": "https://lh3.googleusercontent.com/d/1pSHJxMD8PTLgqreYEDmVgd9BUZ8Bv32X"
+        },
+      {
+            "id": "019",
+            "name": "Claro",
+            "clientImage": "https://lh3.googleusercontent.com/d/1vkLqKLb2S6XxHmxpDj9bG_B-SwMjTqrj"
+        }
+      
+    ],
+    "businessInformation": {
+        "websiteDomain": "https://retailpointecuador.com/",
+        "whatsappNumber": "0990875618",
+        "contactEmail": "info@retailpointecuador.com",
+        "address": "Cdla. Albatros, Mz 4 Solar 14, Oficina 2 - Planta alta; Av. de las Américas y Plaza Dañin",
+        "businessHours": "Lunes a Viernes: 9:00 AM - 6:00 PM Sábados: 9:00 AM - 1:00 PM",
+        "socialMedia": {
+            "facebook": "https://www.facebook.com/retailpointecuador",
+            "instagram": "https://www.instagram.com/retailpointecuador/",
+            "youtube": ""
+        },
+        "pdfCatalogs": [
+            {
+                "name": "Catálogo Líneas Retail Point Ecuador",
+                "link": "https://drive.google.com/file/d/1UPu8FZKzmHyB1wryx3ZEZTRPEeOZD4rV/view?usp=drive_link"
+            }
+        ]
+    }
+}
